@@ -1,0 +1,1 @@
+A Random string generator using Django. My first Django app!
